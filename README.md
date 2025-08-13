@@ -29,7 +29,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,cs,cpp,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,git,github,docker,materialui,postman,vscode,bash,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,cs,cpp,dotnet,dart,flutter,py,css,html,js,nodejs,supabase,mysql,sqlite,firebase,git,github,docker,postman,vscode,bash,linux&perline=12" />
   </a>
 </p>
 <br>
