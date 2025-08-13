@@ -20,7 +20,8 @@
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **sadielvazquez1@gmail.com**
+📫 Contacto: https://tdevbazaar.github.io/Bazaar
+*
 <!--Intro end-->
   </p>
 <br>
