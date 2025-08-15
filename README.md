@@ -34,6 +34,7 @@
   </a>
 </p>
 <br>
+![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=condorcoders&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
