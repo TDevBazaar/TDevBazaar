@@ -4,7 +4,7 @@
   <a href="https://www.youtube.com/@DplusTec" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@devbazaar"  /></a>
 <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href="https://www.facebook.com/profile.php?id=61577291160335" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="devbazaar"  /></a>
-<a href="https://www.instagram.com/dev.bazaar/" target="blank"><img align="center" src="https://img.shields.io/badge/e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="devbazaar"  /></a>
+<a href="https://www.instagram.com/dev.bazaar/" target="blank"><img align="center" src="https://img.shields.io/badge/E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="devbazaar"  /></a>
 <a href = "mailto:sadielvazquez1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@devbazaar"  /></a>
   </p>
 <br>
